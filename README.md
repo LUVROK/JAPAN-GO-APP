@@ -1,9 +1,9 @@
 # project_diploma_v2
 
 Download the npm dependencies
-# 'npm install'
+### `npm install`
 Launch the app
-# 'expo start'
+### `expo start`
 the qr code available on localhost is scanned
 don't forget to download the Expo app
 
