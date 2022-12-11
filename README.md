@@ -1,4 +1,5 @@
 # JAPAN GO
+japan go app
 
 Download the npm dependencies
 ### `npm install`
