@@ -1,4 +1,4 @@
-# project_diploma_v2
+# JAPAN GO
 
 Download the npm dependencies
 ### `npm install`
