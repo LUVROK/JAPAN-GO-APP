@@ -2,6 +2,7 @@
 japan go app
 
 WARNING !!! The backend is not hosted, there is not enough funding !!!
+
 Download the npm dependencies
 ### `npm install`
 Launch the app
