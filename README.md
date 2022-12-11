@@ -3,18 +3,18 @@ japan go app
 
 WARNING !!! The backend is not hosted, there is not enough funding !!!
 
-Katakana
-Hiragana
+Katakana,
+Hiragana,
 Kanji N5
 
-Registration, login, Facebook login, Google login
-Adding Friends
+Registration, login, Facebook login, Google login,
+Adding Friends,
 Messages between users (without encryption)
 
-Stack
-MongoDB
-Express js
-EXPO
+Stack - 
+MongoDB,
+Express js,
+EXPO,
 React Native
 
 Download the npm dependencies
