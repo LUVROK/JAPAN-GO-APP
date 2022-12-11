@@ -1,5 +1,12 @@
 # project_diploma_v2
 
+Download the npm dependencies
+# 'npm install'
+Launch the app
+# 'expo start'
+the qr code available on localhost is scanned
+don't forget to download the Expo app
+
 ![image](https://user-images.githubusercontent.com/85076219/206913929-ccce93e7-1ac0-486e-aad5-53f04129cb36.png)
 ![image](https://user-images.githubusercontent.com/85076219/206913944-52d051b0-53f2-4e9d-954c-29ea7f9b56a4.png)
 ![image](https://user-images.githubusercontent.com/85076219/206913950-a7b9bdc9-c192-4fbc-8a49-b8842a6b5664.png)
